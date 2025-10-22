@@ -10,5 +10,6 @@ This project models and visualizes rainfall-triggered insurance payouts across a
 - Scatter and bar chart visualizations (matplotlib + Plotly)
 - Modular code for easy integration with new datasets or contract types
 - Two Jupyter notebooks for interactive analysis:
-  - `pointwise_analysis.ipynb`: performs point-level calculations and contract modeling for individual locations
-  - `region_comparison.ipynb`: aggregates and compares EAL/MAL metrics across multiple regions for spatial benchmarking
+  - `params-ins-point.ipynb`: performs point-level calculations and contract modeling for individual locations
+  - `params-ins-study.ipynb`: aggregates and compares EAL/MAL metrics across multiple regions for spatial benchmarking
+
