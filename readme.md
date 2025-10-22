@@ -10,7 +10,4 @@ This project models and visualizes rainfall-triggered insurance payouts across a
 - Scatter and bar chart visualizations (matplotlib + Plotly)
 - Modular code for easy integration with new datasets or contract types
 
-## 📂 Directory Structure
-
-project_root/ ├── data/ # IMD rainfall data (gridded .csv or .txt) ├── contracts/ # Payout function definitions ├── analysis/ # Core analysis functions ├── plots/ # Visualization utilities ├── results/ # Output tables and charts └── README.md
 
